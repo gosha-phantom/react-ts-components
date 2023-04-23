@@ -74,7 +74,7 @@
     padding: calc(var(--hamburger-height) + var(--hamburger-margin) + 0.5rem) 0.5rem 0.5rem;
     background-color: var(--hamburger-background);
     color: var(--hamburger-foreground);
-    min-width: 10rem;
+    width: 10rem;
     min-height: 100vh;
     transition:
             width var(--hamburger-timing),
