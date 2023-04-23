@@ -1,0 +1,9 @@
+.app {
+    display: flex;
+    /*padding: 1em;*/
+    gap: 1em;
+}
+
+.page {
+    flex-grow: 1;
+}
